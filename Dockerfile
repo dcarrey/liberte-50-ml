@@ -1,6 +1,6 @@
 FROM python:3.8
 
-MAINTAINER Alix Boc <dcarrey@gmail.com
+MAINTAINER Alix Boc <dcarrey@gmail.com>
 
 COPY . /opt/app
 
